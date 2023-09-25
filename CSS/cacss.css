@@ -1,0 +1,62 @@
+/*css for chesartchive*/
+
+h1{
+    text-align: center;
+}
+
+a:visited {
+    color:rgb(187, 255, 0);
+    font-weight:normal;
+}
+
+ul li{
+    display:inline;
+}
+
+h1{
+    color:black;
+    text-decoration: wavy black;
+}
+
+.creator{
+    background-image: url(/Image/background1.jpg); 
+    background-size: 400px;
+}
+
+.personal{
+    text-align: unset;
+    color: green;
+}
+
+.contact{
+    background-image: url(/Image/rain.gif); 
+    background-size: 500px;
+}
+
+body{
+    text-align: center;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+}
+
+ul{
+    text-align: center;
+}
+
+.refresh{
+    text-align: center;
+    color:aqua;
+}
+
+.refresh:visited{
+    color:aquamarine;
+}
+
+
+body{
+    background-image: url(/Image/background1.jpg); 
+    background-size: 200px;
+}
+
+e
